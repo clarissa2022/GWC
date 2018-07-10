@@ -1,0 +1,20 @@
+h1{
+  color: #cc00cc;
+  font-size: 60px;
+  font-family: 'Knewave', cursive;
+}
+ h3,h2{
+   color: #aa80ff;
+   font-size: 30px;
+   font-family: 'Pacifico', cursive;
+ }
+ #Fun{
+   color: blue;
+ }
+ .green{
+   color:#800080;
+ }
+
+ body {
+     background-color: #ffcc99 ;
+ }
